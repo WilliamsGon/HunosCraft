@@ -6,9 +6,7 @@
   "author": "Williams Gonzalez (https://github.com/WilliamsGon), Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/WilliamsGon/HunosCraft",
-  "homepage": "https://github.com/WilliamsGon/HunosCraft",
   "bugs": {
-    "url": "https://github.com/WilliamsGon/HunosCraft/issues"
     "url": "https://github.com/WilliamsGon/HunosCraft/issues"
   },
   "private": true,
@@ -51,7 +49,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WilliamsGon/HunosCraft.git"
     "url": "git+https://github.com/WilliamsGon/HunosCraft.git"
   }
 }
