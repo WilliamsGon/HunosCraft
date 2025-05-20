@@ -1,5 +1,6 @@
 appId: 'helioslauncher'
 productName: 'Atila Launcher'
+productName: 'Atila Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2025 Williams Gonzalez and Daniel Scalzi'
