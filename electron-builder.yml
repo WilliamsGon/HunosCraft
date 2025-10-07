@@ -1,5 +1,4 @@
-appId: 'helioslauncher'
-productName: 'Atila Launcher'
+appId: 'atilalauncher'
 productName: 'Atila Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
