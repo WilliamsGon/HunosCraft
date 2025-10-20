@@ -820,7 +820,7 @@ async function initNews(){
 
     setNewsLoading(true)
 
-    const news = await loadNews()
+    const news = null//await loadNews()
 
     newsArr = news?.articles || null
 
