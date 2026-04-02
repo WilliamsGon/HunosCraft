@@ -1,14 +1,13 @@
 appId: 'atilalauncher'
 productName: 'Atila Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
-
 copyright: 'Copyright © 2018-2025 Williams Gonzalez and Daniel Scalzi'
 
 asar: true
 compression: 'maximum'
 
 files:
-  - '!{dist,.gitignore,.vscode,docs,dev-app-update.yml,.nvmrc,.eslintrc.json}'
+  - '!{dist,.gitignore,.vscode,docs,dev-app-update.yml,.nvmrc,eslint.config.mjs}'
 
 extraResources:
   - 'libraries'
